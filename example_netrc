@@ -1,0 +1,10 @@
+#
+# This is an example .netrc file. Make the changes directed 
+# below and copy to "$HOME/.netrc" (or append to existing).
+#
+# Set the machine name as appropriate.
+#
+# Replace (Application ID) and (Application password) with the
+# registered application's ID and password within URS.
+#
+machine uat.urs.earthdata.nasa.gov login (Application ID) password (Application password)
